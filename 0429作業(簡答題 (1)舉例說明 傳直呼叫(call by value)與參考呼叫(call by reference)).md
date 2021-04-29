@@ -6,7 +6,7 @@
 
 ## 傳值呼叫(call by value)
 ```
-包ex05;
+ex05;
 public class callByVal{
 public static void main (String[] args){
   int a = 10, b = 15;
@@ -59,7 +59,11 @@ public class CallByRef {
 }  
 
 ```
-
+結果：
+參考呼叫前 a = 10 b = 15
+參考呼叫後 a = 15 b = 10
+```
+```
 ## 舉例說明 方法多載 
 
 ```
