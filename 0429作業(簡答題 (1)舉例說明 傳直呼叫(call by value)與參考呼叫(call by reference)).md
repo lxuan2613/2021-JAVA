@@ -24,7 +24,7 @@ public static void main (String[] args){
 }
 
 ```
-
+```
 結果：
 傳值呼叫前 a = 10 b = 15
 傳值呼叫中 x = 15 y = 10
@@ -63,7 +63,7 @@ public class CallByRef {
 參考呼叫前 a = 10 b = 15
 參考呼叫後 a = 15 b = 10
 ```
-
+```
 ## 舉例說明 方法多載 
 
 ```
